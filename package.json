@@ -1,0 +1,27 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@toruslabs/torus-embed": "^1.39.0",
+    "@types/node": "^18.0.6",
+    "api": "^5.0.7",
+    "discord.js": "^14.7.1",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "fs": "^0.0.1-security",
+    "node-cron": "^3.0.2",
+    "node-fetch": "^3.3.0",
+    "nodemailer": "^6.9.1",
+    "qs": "^6.11.0",
+    "web3": "^1.8.2"
+  }
+}
